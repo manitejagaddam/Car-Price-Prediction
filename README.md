@@ -23,7 +23,7 @@
 
 - Clone the Repository
 ```bash
-git clone https://github.com/Car-Price_Prediction
+git clone https://github.com/manitejagaddam/Car-Price_Prediction
 cd Car-Price-Prediction
 ```
 - Run Application
